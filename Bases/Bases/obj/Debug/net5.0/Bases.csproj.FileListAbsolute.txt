@@ -1,0 +1,16 @@
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\bin\Debug\net5.0\Bases.exe
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\bin\Debug\net5.0\Bases.deps.json
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\bin\Debug\net5.0\Bases.runtimeconfig.json
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\bin\Debug\net5.0\Bases.runtimeconfig.dev.json
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\bin\Debug\net5.0\Bases.dll
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\bin\Debug\net5.0\ref\Bases.dll
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\bin\Debug\net5.0\Bases.pdb
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\obj\Debug\net5.0\Bases.csproj.AssemblyReference.cache
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\obj\Debug\net5.0\Bases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\obj\Debug\net5.0\Bases.AssemblyInfoInputs.cache
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\obj\Debug\net5.0\Bases.AssemblyInfo.cs
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\obj\Debug\net5.0\Bases.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\obj\Debug\net5.0\Bases.dll
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\obj\Debug\net5.0\ref\Bases.dll
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\obj\Debug\net5.0\Bases.pdb
+D:\Mis Proyectos\C# .NET\init-csharp\Bases\Bases\obj\Debug\net5.0\Bases.genruntimeconfig.cache
