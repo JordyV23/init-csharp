@@ -4,6 +4,7 @@ Este es un proyecto creado para almacenar todo el aprendizaje en el lenguaje C#,
 - Declaracion de variables
 - Tipado de datos
 - Bucles y Condiciones
+- Arreglos
 - POO
 - Particularidades del lenguaje
 
