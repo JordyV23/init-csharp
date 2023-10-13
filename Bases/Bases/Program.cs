@@ -6,59 +6,22 @@ namespace Bases
     {
         static void Main(string[] args)
         {
-            /*
-             Este es 
-                un comentario 
-                        multilinea
-             */
 
-            //Este es un comentario en linea
-
-            string nombre = "Jordy";
-
-            //Con var se asignan valores implicitos
-            var apellido = "Vargas";
-
-            //Tipados
-            int entero = 100;
-
-            //----
-            //Los valores para numeros no enteros, se pueden usar los siguientes
-            //Los float deben de llevar la f
-            float flotante = 36.23f;
-            double doubles = 36.94;
-            //Los deciman deben de llevar la m
-            decimal valorDecima = 450.567m;
-            //----
-
-            //Tiene como maximo 255
-            byte myLittleNumber = 255;
-
-            bool isLearning = true;
-
-            char caracter = 'J';
+            clsLibro donQuijote = new clsLibro("Don Quijote de la Mancha", "Miguel de cervante", 809);
+            //Manera Nueva:
+            clsLibro elPeregrino = new("El Peregrino", "Paulo Coelho", 120);
 
 
-            const int constante = 10;
+            Console.WriteLine(donQuijote.GetDescripcion() + "\n ");
+            Console.WriteLine(donQuijote.Nombre);
+            Console.WriteLine(elPeregrino.GetDescripcion());
+            Console.WriteLine(elPeregrino.GetDescripcionFlecha());
 
-            Console.WriteLine("Hello World! Atte: " + nombre );
-            Console.WriteLine("Ingrese un numero");
-            //Leer variables por consola
-            int num1 = int.Parse(Console.ReadLine());
+            Escritor TiaPanchita = new Escritor("Carmen", "Lira", "123456789", 73, "Tia Panchita" );
+            Console.WriteLine(TiaPanchita.getPersona());
 
-            Console.WriteLine("Ingrese un numero");
-            int num2 = int.Parse(Console.ReadLine());
-
-            //Operadores Aritmeticos
-            int suma = num1 + num2;
-            int resta = num1 - num2;
-            int multi = num1 * num2;
-            var division = num1 / num2;
-
-            Console.WriteLine($"Suma: {suma}");
-            Console.WriteLine($"Resta: {resta} ");
-            Console.WriteLine($"Multi: {multi}");
-            Console.WriteLine($"Division: {division}");
         }
+
+
     }
 }
