@@ -42,6 +42,23 @@ namespace Bases
             const int constante = 10;
 
             Console.WriteLine("Hello World! Atte: " + nombre );
+            Console.WriteLine("Ingrese un numero");
+            //Leer variables por consola
+            int num1 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese un numero");
+            int num2 = int.Parse(Console.ReadLine());
+
+            //Operadores Aritmeticos
+            int suma = num1 + num2;
+            int resta = num1 - num2;
+            int multi = num1 * num2;
+            var division = num1 / num2;
+
+            Console.WriteLine($"Suma: {suma}");
+            Console.WriteLine($"Resta: {resta} ");
+            Console.WriteLine($"Multi: {multi}");
+            Console.WriteLine($"Division: {division}");
         }
     }
 }
