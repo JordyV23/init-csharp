@@ -1,0 +1,7 @@
+D:\Mis Proyectos\C# .NET\init-csharp\IntroListasYMetodos\IntroListasYMetodos\bin\Debug\IntroListasYMetodos.exe.config
+D:\Mis Proyectos\C# .NET\init-csharp\IntroListasYMetodos\IntroListasYMetodos\bin\Debug\IntroListasYMetodos.exe
+D:\Mis Proyectos\C# .NET\init-csharp\IntroListasYMetodos\IntroListasYMetodos\bin\Debug\IntroListasYMetodos.pdb
+D:\Mis Proyectos\C# .NET\init-csharp\IntroListasYMetodos\IntroListasYMetodos\obj\Debug\IntroListasYMetodos.csproj.AssemblyReference.cache
+D:\Mis Proyectos\C# .NET\init-csharp\IntroListasYMetodos\IntroListasYMetodos\obj\Debug\IntroListasYMetodos.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\C# .NET\init-csharp\IntroListasYMetodos\IntroListasYMetodos\obj\Debug\IntroListasYMetodos.exe
+D:\Mis Proyectos\C# .NET\init-csharp\IntroListasYMetodos\IntroListasYMetodos\obj\Debug\IntroListasYMetodos.pdb
