@@ -1,0 +1,16 @@
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\bin\Debug\net5.0\Delegates.exe
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\bin\Debug\net5.0\Delegates.deps.json
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.json
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.dev.json
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\bin\Debug\net5.0\Delegates.dll
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\bin\Debug\net5.0\ref\Delegates.dll
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\bin\Debug\net5.0\Delegates.pdb
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.AssemblyReference.cache
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfoInputs.cache
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfo.cs
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.dll
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\obj\Debug\net5.0\ref\Delegates.dll
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.pdb
+D:\Mis Proyectos\C# .NET\init-csharp\Delegates\Delegates\obj\Debug\net5.0\Delegates.genruntimeconfig.cache
